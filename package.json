@@ -1,0 +1,17 @@
+{
+  "name": "jiti-issue",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "build": "unbuild --stub",
+    "start": "esmo playground.ts"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "esmo": "^0.14.1",
+    "unbuild": "^0.7.4"
+  }
+}
